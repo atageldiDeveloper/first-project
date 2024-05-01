@@ -1,0 +1,16 @@
+header {
+    color: red;
+}
+
+main {
+    color: yellow;
+}
+
+footer {
+    color: blue;
+}
+
+body {
+    display: flex;
+    justify-content: space-between;
+}
